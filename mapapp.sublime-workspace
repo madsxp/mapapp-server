@@ -1,0 +1,845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getjson	$.getjson()"
+			],
+			[
+				"Dee",
+				"DEFAULT_LARGE_SIZE"
+			],
+			[
+				"right",
+				"right_image"
+			],
+			[
+				"flickr_image",
+				"flickr_imageviewer_image_left"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-rad",
+				"border-bottom-right-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"SAVED",
+				"savedImages"
+			],
+			[
+				"show",
+				"showImage"
+			],
+			[
+				"hide",
+				"hideImage"
+			],
+			[
+				"sho",
+				"showing_image"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"showImage",
+				"showImage_goLeft"
+			],
+			[
+				"med",
+				"medium_2"
+			],
+			[
+				"medi",
+				"medium_1"
+			],
+			[
+				"getImage",
+				"getImageFromIndex"
+			],
+			[
+				"image",
+				"ImageLoader"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"Image",
+				"image_height"
+			],
+			[
+				"imag",
+				"ImageLoader"
+			],
+			[
+				"larg",
+				"large_square"
+			],
+			[
+				"flic",
+				"flickrPhotoObj"
+			],
+			[
+				"flc",
+				"flickrPhotoObj"
+			],
+			[
+				"photos",
+				"photos"
+			],
+			[
+				"search",
+				"search_photos"
+			],
+			[
+				"flick",
+				"flickrAPIKey"
+			],
+			[
+				"getj",
+				"getjson	$.getjson()"
+			],
+			[
+				"Flic",
+				"flickrAPIKey"
+			],
+			[
+				"q",
+				"qq	consolelog"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"add",
+				"additional_info"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rec",
+				"recipe_obj"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"gif",
+				"gifhub_users"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"Player",
+				"player"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"exl",
+				"explode"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"cap",
+				"captcha_response"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"im",
+				"Implementation"
+			],
+			[
+				"su",
+				"subsection"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"repeat",
+				"no-repeat"
+			],
+			[
+				"n",
+				"newpost"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bestMove",
+				"bestMoveLength"
+			],
+			[
+				"state",
+				"state6"
+			],
+			[
+				"over",
+				"overCol"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"b",
+				"BOARD"
+			],
+			[
+				"board",
+				"boardElement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"LATEX",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"jump",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latex",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"tex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"",
+				"Snippet: Section"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"new",
+				"File: New View into File"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"open"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mads/Google Drive/sites/mapapp-server"
+	],
+	"file_history":
+	[
+		"/Users/mads/Google Drive/sites/mapapp-server/package.json",
+		"/Users/mads/Google Drive/sites/testhest/index.php",
+		"/Users/mads/Google Drive/sites/flickerapi/jquery-1.8.1.min.js",
+		"/Users/mads/Google Drive/sites/flickerapi/style.css",
+		"/Users/mads/Google Drive/sites/flickerapi/app.html",
+		"/Users/mads/Google Drive/sites/flickerapi/flickrapp.js",
+		"/Users/mads/Dropbox/Samlet opgave/Til aflevering/SIGB_EXAM_ASSIGNMENT_GROUP8/Assignment_3/Kode/Part_2/Project/OpenCV3D_2.py",
+		"/Users/mads/Google Drive/sites/flickerapi/flickrapi.sublime-project",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/User/consolelog.sublime-snippet",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mads/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/mads/Google Drive/ITU/Frameworks and Architectures for the Web (FRWAW-SPRING 2015)/assignment 1/static/style.css",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/style.css",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/footer.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/index.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/page.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/single.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/entry.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/header.php",
+		"/Users/mads/Google Drive/sites/itufilmwp/wp-content/themes/blankslate/functions.php",
+		"/Users/mads/Google Drive/ITU/Frameworks and Architectures for the Web (FRWAW-SPRING 2015)/assignment 1/static/index.html",
+		"/Users/mads/Google Drive/sites/itufilm/views/main.ejs",
+		"/Users/mads/Downloads/Assignment2 (1).py",
+		"/Users/mads/Google Drive/sites/itufilm/config/csrf.js",
+		"/Users/mads/Google Drive/sites/itufilm/bower.json",
+		"/Users/mads/Google Drive/sites/beer/package.json",
+		"/Users/mads/Google Drive/sites/beer/assets/styles/main.less",
+		"/Users/mads/Google Drive/sites/beer/config/models.js",
+		"/Users/mads/Google Drive/sites/beer/assets/styles/recipe.less",
+		"/Users/mads/Google Drive/sites/beer/views/homepage.ejs",
+		"/Users/mads/Desktop/test.html",
+		"/Users/mads/Google Drive/sites/gep/gep.js",
+		"/Users/mads/Google Drive/sites/gep/index.html",
+		"/Users/mads/Google Drive/sites/giggy/config/models.js",
+		"/Users/mads/Google Drive/sites/giggy/config/connections.js",
+		"/Users/mads/Google Drive/sites/giggy/api/controllers/EventsController.js",
+		"/Users/mads/Google Drive/sites/giggy/views/layout.ejs",
+		"/Users/mads/Google Drive/sites/giggy/views/frontpage.ejs",
+		"/Users/mads/Google Drive/sites/giggy/views/event.ejs",
+		"/Users/mads/Google Drive/sites/giggy/views/editor.ejs",
+		"/Users/mads/Google Drive/sites/giggy/views/debug.ejs",
+		"/Users/mads/Google Drive/sites/giggy/README.md",
+		"/Users/mads/Google Drive/sites/giggy/package.json",
+		"/Users/mads/Google Drive/sites/giggy/Gruntfile.js",
+		"/Users/mads/Google Drive/sites/giggy/config/widgets.js",
+		"/Users/mads/Google Drive/sites/giggy/config/views.js",
+		"/Users/mads/Google Drive/sites/giggy/config/sockets.js",
+		"/Users/mads/Google Drive/sites/giggy/config/session.js",
+		"/Users/mads/Google Drive/sites/giggy/config/routes.js",
+		"/Users/mads/Google Drive/sites/giggy/config/policies.js",
+		"/Users/mads/Google Drive/sites/giggy/config/log.js",
+		"/Users/mads/Google Drive/sites/giggy/config/i18n.js",
+		"/Users/mads/Google Drive/sites/giggy/config/http.js",
+		"/Users/mads/Google Drive/sites/giggy/config/globals.js",
+		"/Users/mads/Google Drive/sites/giggy/config/csrf.js",
+		"/Users/mads/Google Drive/sites/giggy/config/cors.js",
+		"/Users/mads/Google Drive/sites/giggy/config/bootstrap.js",
+		"/Users/mads/Google Drive/sites/giggy/config/blueprints.js",
+		"/Users/mads/Google Drive/sites/giggy/app.js",
+		"/Users/mads/Google Drive/sites/giggy/api/models/Events.js",
+		"/Users/mads/Google Drive/sites/giggy/api/models/.DS_Store",
+		"/Users/mads/Google Drive/sites/giggy/api/.DS_Store",
+		"/Users/mads/Google Drive/sites/giggy/.gitignore",
+		"/Users/mads/Google Drive/sites/giggy/.DS_Store",
+		"/Users/mads/Google Drive/sites/giggy/assets/js/widgets/name.js",
+		"/Users/mads/Google Drive/sites/giggy/api/responses/ok.js",
+		"/Users/mads/Google Drive/sites/giggy/node_modules/.DS_Store",
+		"/Users/mads/Downloads/OgreWikiTutorialFramework_1-9/BaseApplication.cpp",
+		"/Users/mads/Ogre/ogreBuild/RenderSystems/GL/OGRE.build/Release/RenderSystem_GL.build/Objects-normal/x86_64/OgreOSXWindow.d",
+		"/Users/mads/Ogre/OgreBuild/OGRE.xcodeproj/project.pbxproj",
+		"/Users/mads/Google Drive/sites/sslem/app/views/users/create.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/app/routes.php",
+		"/Users/mads/Documents/ogre/Dependencies/freetype-2.5.3/autogen.sh",
+		"/Users/mads/Google Drive/sites/popcorn-app/src/app/settings.js",
+		"/Users/mads/Google Drive/sites/sslem/app/config/app.php",
+		"/Users/mads/Google Drive/sites/sslem/vendor/autoload.php",
+		"/Users/mads/Google Drive/sites/popcorn-app/src/app/app.js",
+		"/Users/mads/Google Drive/DEV/S3/DM-GROUP-PROJECT/data/weather98.csv",
+		"/Users/mads/Google Drive/DEV/S3/DM-GROUP-PROJECT/data/weather.csv",
+		"/Users/mads/Downloads/se_files/SEServer.java",
+		"/Users/mads/Google Drive/sites/minigolfer/views/layout.ejs",
+		"/Users/mads/Google Drive/sites/minigolfer/api/controllers/MatchController.js",
+		"/Users/mads/Google Drive/sites/minigolfer/views/match/list.ejs",
+		"/Users/mads/Google Drive/sites/minigolfer/config/routes.js",
+		"/Users/mads/Google Drive/sites/minigolfer/api/models/Player.js",
+		"/Users/mads/Google Drive/sites/minigolfer/api/models/Match.js",
+		"/Users/mads/Google Drive/sites/minigolfer/README.md",
+		"/Users/mads/Google Drive/sites/minigolfer/package.json",
+		"/Users/mads/Google Drive/sites/minigolfer/Gruntfile.js",
+		"/Users/mads/Google Drive/sites/minigolfer/app.js",
+		"/Users/mads/Google Drive/sites/minigolfer/.sailsrc",
+		"/Users/mads/Google Drive/sites/minigolfer/.gitignore",
+		"/Users/mads/Google Drive/sites/minigolfer/views/show",
+		"/Users/mads/Google Drive/sites/minigolfer/views/homepage.ejs",
+		"/Users/mads/Google Drive/sites/minigolfer/views/home/index.ejs",
+		"/Users/mads/Google Drive/sites/minigolfer/views/match/show.ejs",
+		"/Users/mads/Google Drive/sites/minigolfer/api/controllers/MainController.js",
+		"/Users/mads/Google Drive/sites/minigolfer/.DS_Store",
+		"/Users/mads/Google Drive/sites/sslem/app/models/APIKey.php",
+		"/Users/mads/Google Drive/sites/sslem/app/views/users/edit.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/app/views/users/show.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/app/views/layout.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/app/views/users/api.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/app/database/migrations/2014_04_25_092759_create_apikeys_table.php",
+		"/Users/mads/Google Drive/sites/sslem/app/controllers/APIController.php",
+		"/Users/mads/Google Drive/sites/sslem/app/models/User.php",
+		"/Users/mads/Google Drive/sites/sslem/app/controllers/UsersController.php",
+		"/Users/mads/Google Drive/sites/sslem/.DS_Store",
+		"/Users/mads/Google Drive/sites/sslem/.gitignore",
+		"/Users/mads/Google Drive/sites/sslem/.lesshst",
+		"/Users/mads/Google Drive/sites/sslem/.zcompdump",
+		"/Users/mads/Google Drive/sites/sslem/.zshrc",
+		"/Users/mads/Google Drive/sites/sslem/artisan",
+		"/Users/mads/Google Drive/sites/sslem/composer.json",
+		"/Users/mads/Google Drive/sites/sslem/composer.lock",
+		"/Users/mads/Google Drive/sites/sslem/CONTRIBUTING.md",
+		"/Users/mads/Google Drive/sites/sslem/phpunit.xml",
+		"/Users/mads/Google Drive/sites/sslem/readme.md",
+		"/Users/mads/Google Drive/sites/sslem/server.php",
+		"/Users/mads/Google Drive/sites/sslem/users",
+		"/Users/mads/Google Drive/sites/giggy/assets/linker/js/script.js",
+		"/Users/mads/Google Drive/sites/giggy/assets/linker/js/backbone.js",
+		"/Users/mads/Google Drive/sites/sslem/app/views/login.blade.php",
+		"/Users/mads/Google Drive/sites/sslem/public/scripts/sslem.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hide",
+			"status",
+			"setFooterStatus",
+			"footer_status",
+			"show()",
+			"FLICKR_APP.ELEMENTS.imageviewer_buttons",
+			"imageviewer_buttons",
+			"flickr_imageviewer_buttons",
+			"flicker",
+			"\".",
+			"'.",
+			".",
+			"#",
+			"$('#flicker_imageviewer_buttons')",
+			"#",
+			"$('#flickr_suggestions')",
+			"flickr_footer_status",
+			"#",
+			"flickr_images_container",
+			"#",
+			"$('#flickr_footer')",
+			"#",
+			"$('#flickr_footer_status')",
+			"#",
+			"$('#flickr_searchbar_status')",
+			"#",
+			"$('#flickr_searchbar_input')",
+			"#",
+			"$('#flickr_footer_saved')",
+			"$('#flickr_delete_image')",
+			"$('#flickr_save_image')",
+			"$('#flickr_imageviewer')",
+			"#",
+			"$('#flickr_searchbar_submit')",
+			"#",
+			"$('#flickr_container')",
+			"searchBarSearch(",
+			"arrangeTags(",
+			"setFooterStatus(",
+			"drawImage",
+			"renderImageCanvas",
+			"drawImage",
+			"FLICKR_APP.CANVAS.",
+			"FLICKR_APP.CANVAS.F",
+			"FLICKR_APP.CANVAS.flick",
+			"FLICKR_APP.CANVAS",
+			"FLICKR_APP.CANVAS.CTX",
+			"emptyImagesContainer(",
+			"drawImage(",
+			"renderImageCanvas(",
+			"fillImagesContainer(",
+			"cordsToColRow(",
+			"colRowToIndex(",
+			"indexToColRow(",
+			"getImageFromIndex(",
+			"getImageDataFromColRow(",
+			"getImageFromClick(",
+			"flickr_footer_status",
+			"setDefaultLargeSize(",
+			"flickrRequest(",
+			"searchAllPhotos(",
+			"loadPhoto(",
+			"constructFlickrAPIurl(",
+			"constructPhotoUrl(",
+			"resetSkipTags(",
+			"FLICKR_APP.SKIP_TAGS",
+			"FLICKR_APP.CTX",
+			"showSavedImages(",
+			"deleteImage(",
+			"flushLocalStorage(",
+			"loadImages(",
+			"saveImage(",
+			"hideImage(",
+			"addPrevNextImage(",
+			"showImage_goLeft(",
+			"showImage_goRight(",
+			"showImage(",
+			"resizeWindow(",
+			"VIEWING_SAVED",
+			"SAVED_IMAGES",
+			"SKIP_TAGS",
+			"IMAGE_LOADER",
+			"CTX",
+			"FLICKR_IDS",
+			"FLICKR_ELEMENETS",
+			"default_large",
+			"DEFAULT_LARGE_",
+			"default_large",
+			"SIZE",
+			"size",
+			"SIZE",
+			"size",
+			"SIZE",
+			"size",
+			"SIZE",
+			"F.search_photos",
+			"flickrAPIKey",
+			"FLICKR_APP.CONSTANTS",
+			"FREEZE",
+			"ImageLoader.",
+			"ImageLoader",
+			"skip_tags",
+			"right_image",
+			"right_image_element",
+			"$(FLICKR_IDS.imageviewer_image_right)",
+			"$(FLICKR_IDS.imageviewer_image_left)",
+			"$(FLICKR_IDS.imageviewer_image)",
+			"'#flickr_imageviewer_image_right'",
+			"'#flickr_imageviewer_image_left'",
+			"flickr_imageviewer_image_left",
+			"flickr_imageviewer_image",
+			"'#flickr_imageviewer_image'",
+			"$('#flickr_images_container')",
+			"flickr_images_container",
+			"renderImageCanvas",
+			"first",
+			"renderImageCanvas",
+			"deleteallimages",
+			"flickr_footer_saved",
+			"showSavedImages",
+			"flickr_footer_saved",
+			"flickr_footer_saved\nflickr_footer_saved",
+			"flickr_footer_saved",
+			"setFooterStatus",
+			"setfooterstatus",
+			"flickr_footer_status",
+			"fillImagesContainer",
+			"dra"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"flickr",
+			"FLICKR_APP.ELEMENTS.imageviewer_buttons",
+			"FLICKR_APP.ELEMENTS.suggestions",
+			"footer_status",
+			"FLICKR_APP.ELEMENTS.footer",
+			"FLICKR_APP.ELEMENTS.flickr_footer_status",
+			"FLICKR_APP.ELEMENTS.searchbar_status",
+			"FLICKR_APP.ELEMENTS.searchbar_input",
+			"FLICKR_APP.ELEMENTS.footer_saved",
+			"FLICKR_APP.ELEMENTS.delete_image",
+			"FLICKR_APP.ELEMENTS.save_image",
+			"FLICKR_APP.ELEMENTS.imageviewer",
+			"FLICKR_APP.ELEMENTS.searchbar_submit",
+			"FLICKR_APP.ELEMENTS.flickr_container",
+			"FLICKR_APP.searchBarSearch(",
+			"FLICKR_APP.arrangeTags(",
+			"FLICKR_APP.setFooterStatus(",
+			"FLICKR_APP.CANVAS.emptyImagesContainer(",
+			"FLICKR_APP.CANVAS.drawImage(",
+			"FLICKR_APP.CANVAS.renderImageCanvas(",
+			"FLICKR_APP.CANVAS.fillImagesContainer(",
+			"FLICKR_APP.CANVAS.cordsToColRow(",
+			"FLICKR_APP.CANVAS.colRowToIndex(",
+			"FLICKR_APP.CANVAS.indexToColRow(",
+			"FLICKR_APP.CANVAS.getImageFromIndex(",
+			"FLICKR_APP.CANVAS.getImageDataFromColRow(",
+			"FLICKR_APP.CANVAS.getImageFromClick(",
+			"FLICKR_APP.API.setDefaultLargeSize(",
+			"FLICKR_APP.API.flickrRequest(",
+			"FLICKR_APP.API.searchAllPhotos(",
+			"FLICKR_APP.API.loadPhoto(",
+			"FLICKR_APP.API.constructFlickrAPIurl(",
+			"FLICKR_APP.API.constructPhotoUrl(",
+			"FLICKR_APP.API.resetSkipTags(",
+			"FLICKR_APP.API.SKIP_TAGS",
+			"FLICKR_APP.CANVAS.CTX",
+			"FLICKR_APP.LOCAL_STORAGE.showSavedImages(",
+			"FLICKR_APP.LOCAL_STORAGE.deleteImage(",
+			"FLICKR_APP.LOCAL_STORAGE.flushLocalStorage(",
+			"FLICKR_APP.LOCAL_STORAGE.loadImages(",
+			"FLICKR_APP.LOCAL_STORAGE.saveImage(",
+			"FLICKR_APP.IMAGE_LOADER.hideImage(",
+			"FLICKR_APP.IMAGE_LOADER.addPrevNextImage(",
+			"FLICKR_APP.IMAGE_LOADER.showImage_goLeft(",
+			"FLICKR_APP.IMAGE_LOADER.showImage_goRight(",
+			"FLICKR_APP.IMAGE_LOADER.showImage(",
+			"FLICKR_APP.resizeWindow(",
+			"FLICKR_APP.LOCAL_STORAGE.VIEWING_SAVED",
+			"FLICKR_APP.LOCAL_STORAGE.SAVED_IMAGES",
+			"FLICKR_APP.SKIP_TAGS",
+			"FLICKR_APP.IMAGE_LOADER",
+			"FLICKR_APP.IDS",
+			"FLICKR_APP.ELEMENTS",
+			"FLICKR_APP.API.IMAGE_SIZES",
+			"FLICKR_APP.API.METHODS.search_photos",
+			"FLICKR_APP.API.KEY",
+			"FLICKR_APP.STATUS",
+			"FLICKR_APP.CONSTANTS.FREEZE",
+			"IMAGE_LOADER.",
+			"FLICKR_IDS.imageviewer_image_right",
+			"FLICKR_IDS.imageviewer_image_left",
+			"FLICKR_IDS.imageviewer_image",
+			"FLICKR_ELEMENETS.image_container"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mapapp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/ITU/Frameworks and Architectures for the Web (FRWAW-SPRING 2015)/assignment 1/static/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
