@@ -9,7 +9,14 @@ app.get('/', function (req, res) {
 
 app.get('/api', function (req, res) {
 	res.set('Access-Control-Allow-Origin', '*');
-	res.set('Content-Type', 'json');
+
+	// Make call to overpass
+	$.get('http://overpass-api.de/api/interpreter?data=[out:json];(node(55.675212,12.567147,55.677152,12.569317);rel(bn)->.x;way(55.675212,12.567147,55.677152,12.569317);node(w)->.x;);out meta;', function(data) {
+		console.log("success?..");
+		//console.log(data);
+		//testDrawNodes(data.elements);
+	});
+
  	res.send('json');
 });
 
@@ -22,7 +29,7 @@ function start() {
 		var port = server.address().port;
 
 		console.log('\n--------------------------------------');
-		console.log('%s is starting...', app.locals.title);
+		console.log('%s has started!', app.locals.title);
 		console.log('--------------------------------------');
 		console.log('Listening at http://%s:%s', host, port);
 
